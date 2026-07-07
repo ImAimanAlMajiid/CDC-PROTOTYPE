@@ -1,0 +1,6 @@
+{
+  "name": "Portal Career Development Center (CDC)",
+  "description": "Portal Career Development Center (CDC) Universitas - Pusat informasi lowongan kerja, magang, event karier, webinar, career coaching, dan review CV untuk mahasiswa dan alumni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
